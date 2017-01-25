@@ -7,6 +7,9 @@ public class LoginVO {
 	private String email;
 	private String name;
 	private String phone;
+	private String idx;
+	
+	
 	
 	
 	public String getId() {
