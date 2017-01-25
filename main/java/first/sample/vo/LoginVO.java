@@ -7,16 +7,8 @@ public class LoginVO {
 	private String email;
 	private String name;
 	private String phone;
-	private String idx;
 	
 	
-	
-	public String getIdx() {
-		return idx;
-	}
-	public void setIdx(String idx) {
-		this.idx = idx;
-	}
 	public String getId() {
 		return id;
 	}
